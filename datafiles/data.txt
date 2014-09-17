@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sc qq oo f easy bibi
+=======
+sc qq oo f easy bibi
+>>>>>>> feature1
